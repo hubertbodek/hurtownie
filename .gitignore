@@ -1,0 +1,24 @@
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore dependencies
+*/node_modules/
+vendor/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+# Ignore build artifacts
+/build/
+/dist/
