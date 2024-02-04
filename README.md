@@ -1,1 +1,1 @@
-University projeft for Data Warehouses course
+University project for Data Warehouses course
